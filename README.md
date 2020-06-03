@@ -1,5 +1,7 @@
 ## Welcome to GitHub Pages
 
+Coding has been a challenge for me that I could not over come yet. I am very competitive and want to find out that what is in coding that I can not understand. It is like a mystery that I want to solve.
+
 You can use the [editor on GitHub](https://github.com/SaraAmiry/SaraAmiry.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
